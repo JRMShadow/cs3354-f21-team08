@@ -22,7 +22,7 @@
 
 package org.gjt.sp.jedit;
 
-//{{{ Imports
+
 import java.awt.*;
 import java.awt.Desktop.Action;
 import java.awt.event.FocusAdapter;
