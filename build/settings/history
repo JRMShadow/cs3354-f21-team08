@@ -1,0 +1,13 @@
+[vfs.browser.filter]
+*\[^~#\]
+[vfs.browser.path]
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\de\\masters_of_disaster\\ant\\tasks
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\de\\masters_of_disaster\\ant
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\de\\masters_of_disaster
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\de
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\doclet
+[action]
+open-file
+backspace
+insert-newline-indent

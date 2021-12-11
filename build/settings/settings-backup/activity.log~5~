@@ -1,0 +1,23 @@
+Log file created on Sat Dec 11 15:28:04 CST 2021
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+3:28:03 PM [main] [message] Log: When reporting bugs, please include the following information:
+3:28:03 PM [main] [message] Log: java.version=11.0.8
+3:28:03 PM [main] [message] Log: java.vm.version=11.0.8+10
+3:28:03 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+3:28:03 PM [main] [message] Log: java.runtime.version=11.0.8+10
+3:28:03 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+3:28:03 PM [main] [message] Log: java.vendor=AdoptOpenJDK
+3:28:03 PM [main] [message] Log: java.compiler=null
+3:28:03 PM [main] [message] Log: os.name=Windows 10
+3:28:03 PM [main] [message] Log: os.version=10.0
+3:28:03 PM [main] [message] Log: os.arch=amd64
+3:28:03 PM [main] [message] Log: user.home=C:\Users\Jrmcg
+3:28:03 PM [main] [message] Log: java.home=C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot
+3:28:03 PM [main] [message] Log: java.class.path=C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\classes\core;C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\lib\compile\jsr305.jar;C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\lib\runtime\jsr305.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\lib\idea_rt.jar
+3:28:03 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/settings
+3:28:03 PM [main] [debug] jEdit: before splash screen activation:168 ms
+3:28:04 PM [main] [debug] jEdit: after splash screen activation:965 ms
+3:28:04 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\activity.log" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\activity.log~1~"
