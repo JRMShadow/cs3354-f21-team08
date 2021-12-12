@@ -1,128 +1,212 @@
-Log file created on Sat Dec 11 16:06:44 CST 2021
+Log file created on Sat Dec 11 19:24:45 CST 2021
 IMPORTANT:
 Because updating this file after every log message would kill
 performance, it will be *incomplete* unless you invoke the
 Utilities->Troubleshooting->Update Activity Log on Disk command!
-4:06:44 PM [main] [message] Log: When reporting bugs, please include the following information:
-4:06:44 PM [main] [message] Log: java.version=11.0.8
-4:06:44 PM [main] [message] Log: java.vm.version=11.0.8+10
-4:06:44 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
-4:06:44 PM [main] [message] Log: java.runtime.version=11.0.8+10
-4:06:44 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
-4:06:44 PM [main] [message] Log: java.vendor=AdoptOpenJDK
-4:06:44 PM [main] [message] Log: java.compiler=null
-4:06:44 PM [main] [message] Log: os.name=Windows 10
-4:06:44 PM [main] [message] Log: os.version=10.0
-4:06:44 PM [main] [message] Log: os.arch=amd64
-4:06:44 PM [main] [message] Log: user.home=C:\Users\Jrmcg
-4:06:44 PM [main] [message] Log: java.home=C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot
-4:06:44 PM [main] [message] Log: java.class.path=C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\classes\core;C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\lib\compile\jsr305.jar;C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\lib\runtime\jsr305.jar
-4:06:44 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/settings
-4:06:44 PM [main] [debug] jEdit: before splash screen activation:131 ms
-4:06:44 PM [main] [debug] jEdit: after splash screen activation:841 ms
-4:06:44 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\activity.log" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\activity.log~1~"
-4:06:44 PM [main] [notice] jEdit: jEdit version 5.6.0
-4:06:44 PM [main] [message] jEdit: Settings directory is C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings
-4:06:44 PM [main] [message] jEdit: jEdit home directory is C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master
-4:06:44 PM [main] [debug] SplashScreen: init:23/570ms
-4:06:44 PM [main] [debug] SplashScreen: init system properties:34/604ms
-4:06:44 PM [main] [message] BeanShell: Beanshell Init
-4:06:44 PM [main] [debug] SplashScreen: init beanshell:39/643ms
-4:06:44 PM [main] [debug] SplashScreen: loading site properties:3/646ms
-4:06:44 PM [main] [debug] SplashScreen: loading user properties:3/649ms
-4:06:44 PM [main] [debug] GUIUtilities: Icon theme set to: tango
-4:06:44 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
-4:06:44 PM [main] [debug] SplashScreen: init GUI:4/653ms
-4:06:44 PM [main] [debug] EditServer: jEdit server started on port 60727
-4:06:44 PM [main] [debug] EditServer: Authorization key is 759301901
-4:06:44 PM [main] [debug] SplashScreen: init server:5/658ms
-4:06:44 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
-4:06:44 PM [main] [debug] SplashScreen: init look and feel:16/674ms
-4:06:44 PM [main] [debug] SplashScreen: init VFS Manager:2/676ms
-4:06:44 PM [main] [debug] ActionSet: Loading actions from file:/C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/classes/core/org/gjt/sp/jedit/actions.xml
-4:06:45 PM [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/classes/core/org/gjt/sp/jedit/dockables.xml
-4:06:45 PM [main] [debug] SplashScreen: init resources:69/745ms
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
-4:06:45 PM [main] [debug] SplashScreen: Migrate keymaps:30/775ms
-4:06:45 PM [main] [notice] jEdit: Loading plugins from C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\jars
-4:06:45 PM [main] [notice] jEdit: Loading plugins from C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\jars
-4:06:45 PM [main] [debug] SplashScreen: init plugins:5/780ms
-4:06:45 PM [main] [message] HistoryModel: Loading history
-4:06:45 PM [main] [debug] SplashScreen: init history model:3/783ms
-4:06:45 PM [main] [message] BufferHistory: Loading C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\recent.xml
-4:06:45 PM [main] [debug] SplashScreen: init buffer history:5/788ms
-4:06:45 PM [main] [message] KillRing: Loading C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\killring.xml
-4:06:45 PM [main] [debug] SplashScreen: init killring:8/796ms
-4:06:45 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
-4:06:45 PM [main] [debug] jEdit: SOCKS proxy disabled
-4:06:45 PM [main] [debug] jEdit: HTTP proxy disabled
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
-4:06:45 PM [main] [debug] SplashScreen: init various properties:65/861ms
-4:06:45 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\catalog
-4:06:45 PM [main] [debug] jEdit: Loading user mode catalog
-4:06:45 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\modes\catalog
-4:06:45 PM [main] [debug] SplashScreen: init modes:36/897ms
-4:06:45 PM [main] [debug] SplashScreen: activate plugins:4/901ms
-4:06:45 PM [main] [debug] Macros: Registered beanshell macro handler
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
-4:06:45 PM [main] [debug] SplashScreen: init macros:17/918ms
-4:06:45 PM [main] [message] BeanShell: Running script C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\startup\startup.bsh
-4:06:45 PM [main] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\text.xml
-4:06:45 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
-4:06:45 PM [main] [debug] SplashScreen: run startup scripts:97/1015ms
-4:06:45 PM [main] [debug] SplashScreen: run startup scripts:2/1017ms
-4:06:45 PM [main] [debug] SplashScreen: run startup scripts:3/1018ms
-4:06:45 PM [main] [debug] jEdit: main done:1354 ms
-4:06:45 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\ant.xml
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720 addBufferAt(build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),-1)
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: Buffer added build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 0
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720 addBufferAt(build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),0)
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720 addBufferAt(.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),1)
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: Buffer added .gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 0
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720 addBufferAt(build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),2)
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720 addBufferAt(Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),3)
-4:06:45 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: Buffer added Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 2
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
-4:06:45 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
-4:06:45 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 2022 ms
-4:06:46 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
-4:06:46 PM [AWT-EventQueue-0] [debug] ActionSet: Loading actions from file:/C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/classes/core/org/gjt/sp/jedit/browser.actions.xml
-4:06:46 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,752x468,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
-4:06:46 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
-4:07:03 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml
-4:07:03 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\perspective.xml~1~"
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
-4:07:03 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: Buffer removed .gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
-4:07:03 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
-4:07:03 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: Buffer removed build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
-4:07:03 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
-4:07:03 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
-4:07:03 PM [AWT-EventQueue-0] [debug] BufferSet: 1052987720: Buffer removed Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
-4:07:03 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
-4:07:03 PM [AWT-EventQueue-0] [message] BufferHistory: Saving C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\recent.xml
-4:07:03 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\recent.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\recent.xml~1~"
-4:07:03 PM [AWT-EventQueue-0] [message] KillRing: Saving C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\killring.xml
-4:07:03 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\killring.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\killring.xml~1~"
-4:07:03 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\properties" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\properties~1~"
+7:24:44 PM [main] [message] Log: When reporting bugs, please include the following information:
+7:24:44 PM [main] [message] Log: java.version=11.0.8
+7:24:44 PM [main] [message] Log: java.vm.version=11.0.8+10
+7:24:44 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+7:24:44 PM [main] [message] Log: java.runtime.version=11.0.8+10
+7:24:44 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+7:24:44 PM [main] [message] Log: java.vendor=AdoptOpenJDK
+7:24:44 PM [main] [message] Log: java.compiler=null
+7:24:44 PM [main] [message] Log: os.name=Windows 10
+7:24:44 PM [main] [message] Log: os.version=10.0
+7:24:44 PM [main] [message] Log: os.arch=amd64
+7:24:44 PM [main] [message] Log: user.home=C:\Users\Jrmcg
+7:24:44 PM [main] [message] Log: java.home=C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot
+7:24:44 PM [main] [message] Log: java.class.path=C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\classes\core;C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\lib\compile\jsr305.jar;C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\lib\runtime\jsr305.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\lib\idea_rt.jar
+7:24:44 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/settings
+7:24:44 PM [main] [debug] jEdit: before splash screen activation:149 ms
+7:24:45 PM [main] [debug] jEdit: after splash screen activation:933 ms
+7:24:45 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\activity.log" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\activity.log~1~"
+7:24:45 PM [main] [notice] jEdit: jEdit version 5.6.0
+7:24:45 PM [main] [message] jEdit: Settings directory is C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings
+7:24:45 PM [main] [message] jEdit: jEdit home directory is C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master
+7:24:45 PM [main] [debug] SplashScreen: init:16/621ms
+7:24:45 PM [main] [debug] SplashScreen: init system properties:19/640ms
+7:24:45 PM [main] [message] BeanShell: Beanshell Init
+7:24:45 PM [main] [debug] SplashScreen: init beanshell:38/678ms
+7:24:45 PM [main] [debug] SplashScreen: loading site properties:2/680ms
+7:24:45 PM [main] [debug] SplashScreen: loading user properties:2/682ms
+7:24:45 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+7:24:45 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+7:24:45 PM [main] [debug] SplashScreen: init GUI:4/686ms
+7:24:45 PM [main] [debug] EditServer: jEdit server started on port 58001
+7:24:45 PM [main] [debug] EditServer: Authorization key is 640798064
+7:24:45 PM [main] [debug] SplashScreen: init server:7/693ms
+7:24:45 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+7:24:45 PM [main] [debug] SplashScreen: init look and feel:17/710ms
+7:24:45 PM [main] [debug] SplashScreen: init VFS Manager:2/712ms
+7:24:45 PM [main] [debug] ActionSet: Loading actions from file:/C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/classes/core/org/gjt/sp/jedit/actions.xml
+7:24:45 PM [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/classes/core/org/gjt/sp/jedit/dockables.xml
+7:24:45 PM [main] [debug] SplashScreen: init resources:56/768ms
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+7:24:45 PM [main] [debug] SplashScreen: Migrate keymaps:43/811ms
+7:24:45 PM [main] [notice] jEdit: Loading plugins from C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\jars
+7:24:45 PM [main] [notice] jEdit: Loading plugins from C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\jars
+7:24:45 PM [main] [debug] SplashScreen: init plugins:5/816ms
+7:24:45 PM [main] [message] HistoryModel: Loading history
+7:24:45 PM [main] [debug] SplashScreen: init history model:2/818ms
+7:24:45 PM [main] [message] BufferHistory: Loading C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\recent.xml
+7:24:45 PM [main] [debug] SplashScreen: init buffer history:5/823ms
+7:24:45 PM [main] [message] KillRing: Loading C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\killring.xml
+7:24:45 PM [main] [debug] SplashScreen: init killring:6/829ms
+7:24:45 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+7:24:45 PM [main] [debug] jEdit: SOCKS proxy disabled
+7:24:45 PM [main] [debug] jEdit: HTTP proxy disabled
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+7:24:45 PM [main] [debug] SplashScreen: init various properties:70/899ms
+7:24:45 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\catalog
+7:24:45 PM [main] [debug] jEdit: Loading user mode catalog
+7:24:45 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\modes\catalog
+7:24:45 PM [main] [debug] SplashScreen: init modes:42/941ms
+7:24:45 PM [main] [debug] SplashScreen: activate plugins:3/944ms
+7:24:45 PM [main] [debug] Macros: Registered beanshell macro handler
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+7:24:45 PM [main] [debug] SplashScreen: init macros:28/972ms
+7:24:45 PM [main] [message] BeanShell: Running script C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\startup\startup.bsh
+7:24:45 PM [main] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\text.xml
+7:24:45 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+7:24:45 PM [main] [debug] SplashScreen: run startup scripts:123/1095ms
+7:24:45 PM [main] [debug] SplashScreen: run startup scripts:1/1096ms
+7:24:45 PM [main] [debug] SplashScreen: run startup scripts:2/1097ms
+7:24:45 PM [main] [debug] jEdit: main done:1468 ms
+7:24:45 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\ant.xml
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)]
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),-1)
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 0
+7:24:45 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),0)
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),1)
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added .gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 0
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),2)
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 1
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),3)
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) at 2
+7:24:45 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\),4)
+7:24:46 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+7:24:46 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+7:24:46 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 2209 ms
+7:24:46 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+7:24:46 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+7:25:15 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\perspective.xml~1~"
+7:26:05 PM [AWT-EventQueue-0] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:10 PM [AWT-EventQueue-0] [debug] ActionSet: Loading actions from file:/C:/Users/Jrmcg/OneDrive/Desktop/cs3354-f21-team08-master/build/classes/core/org/gjt/sp/jedit/browser.actions.xml
+7:26:11 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,1536x718,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+7:26:11 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=DEACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,1536x718,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+7:26:11 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,1536x718,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+7:26:13 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:14 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:14 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:16 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\),-1)
+7:26:16 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\) at 2
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\html.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\xml.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\css.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\javascript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\javascript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\coffeescript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\javascript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\python.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\ruby.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\vbscript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\xq.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\xml.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\css.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\javascript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\javascript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\coffeescript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\javascript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\python.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\ruby.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\vbscript.xml
+7:26:16 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\modes\xq.xml
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:16 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:18 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\),-1)
+7:26:18 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\) at 2
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:18 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903 addBufferAt(done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\),-1)
+7:26:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer added done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\) at 3
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)]
+7:26:24 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:26:45 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\perspective.xml~1~"
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+7:28:19 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml
+7:28:19 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\perspective.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\perspective.xml~1~"
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed .gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:.gitaccess (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:build.xml (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:done-Unix.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:done-VMS.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\)
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:done-Windows.html (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\installer\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSet: 215880903: Buffer removed Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\)
+7:28:19 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-2 (%IDEA_INITIAL_DIRECTORY%\cs3354-f21-team08-master\) is in no bufferSet anymore, closing it
+7:28:19 PM [AWT-EventQueue-0] [message] HistoryModel: Saving history
+7:28:19 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\history" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\history~1~"
+7:28:19 PM [AWT-EventQueue-0] [message] BufferHistory: Saving C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\recent.xml
+7:28:19 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\recent.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\recent.xml~1~"
+7:28:19 PM [AWT-EventQueue-0] [message] KillRing: Saving C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\killring.xml
+7:28:19 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\killring.xml" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\killring.xml~1~"
+7:28:19 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\properties" to "C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build\settings\settings-backup\properties~1~"

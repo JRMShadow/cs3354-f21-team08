@@ -1,3 +1,7 @@
+[vfs.browser.filter]
+*\[^~#\]
 [action]
 backspace
 insert-newline-indent
+[vfs.browser.path]
+C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\doclet

@@ -3,11 +3,15 @@
 <PERSPECTIVE>
 <BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\.gitaccess</BUFFER>
 <BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\build.xml</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\installer\done-Unix.html</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\installer\done-VMS.html</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\installer\done-Windows.html</BUFFER>
 <BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="TRUE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\Untitled-1</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="TRUE">C:\Users\Jrmcg\OneDrive\Desktop\cs3354-f21-team08-master\Untitled-2</BUFFER>
 <VIEW PLAIN="FALSE">
 <PANES>
-"C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\build.xml" buffer "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\.gitaccess" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\build.xml" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\Untitled-1" buff "global" bufferset
+"C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\installer\\done-VMS.html" buffer "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\.gitaccess" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\build.xml" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\installer\\done-Unix.html" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\installer\\done-VMS.html" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\installer\\done-Windows.html" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\Untitled-1" buff "C:\\Users\\Jrmcg\\OneDrive\\Desktop\\cs3354-f21-team08-master\\Untitled-2" buff "global" bufferset
 </PANES>
-<GEOMETRY X="385" Y="113" WIDTH="766" HEIGHT="588" EXT_STATE="0" />
+<GEOMETRY X="385" Y="113" WIDTH="766" HEIGHT="588" EXT_STATE="6" />
 </VIEW>
 </PERSPECTIVE>
