@@ -161,11 +161,6 @@ public class HistoryModel extends DefaultListModel<String>
 		return model;
 	} //}}}
 
-	public static void deleteHistory()
-	{
-		models = null;
-	}
-
 	//{{{ loadHistory() method
 	public static void loadHistory()
 	{
