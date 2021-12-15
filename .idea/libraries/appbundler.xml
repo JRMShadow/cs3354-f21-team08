@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="appbundler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/appbundler/appbundler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

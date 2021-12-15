@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/test/byte-buddy-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/hamcrest-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/mockito-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/jsr305.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/junit-platform-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/mockito-junit-jupiter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/hamcrest-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/opentest4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/junit-jupiter-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/apiguardian-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/byte-buddy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/hamcrest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/objenesis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

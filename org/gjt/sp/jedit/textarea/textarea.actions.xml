@@ -696,6 +696,11 @@
 		return textArea.isRectangularSelectionEnabled();
 	</IS_SELECTED>
 </ACTION>
+	<ACTION NAME="toggle-scrollbars">
+		<CODE>
+			textArea.toggleBars();
+		</CODE>
+	</ACTION>
 
 <ACTION NAME="undo">
 	<CODE>
