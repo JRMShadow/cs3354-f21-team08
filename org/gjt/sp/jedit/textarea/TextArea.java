@@ -74,6 +74,7 @@ import org.gjt.sp.util.ThreadUtilities;
  */
 public abstract class TextArea extends JPanel
 {
+	boolean bars;
 	//{{{ TextArea constructor
 	/**
 	 * Creates a new JEditTextArea.
@@ -82,6 +83,7 @@ public abstract class TextArea extends JPanel
 	 */
 	protected TextArea(IPropertyManager propertyManager, InputHandlerProvider inputHandlerProvider)
 	{
+
 		this.inputHandlerProvider = inputHandlerProvider;
 		enableEvents(AWTEvent.FOCUS_EVENT_MASK | AWTEvent.KEY_EVENT_MASK);
 
@@ -95,9 +97,12 @@ public abstract class TextArea extends JPanel
 		listenerList = new EventListenerList();
 		caretEvent = new MutableCaretEvent();
 		blink = true;
+		bars =  true;
 		offsetXY = new Point();
 		structureMatchers = new LinkedList<StructureMatcher>();
 		structureMatchers.add(new StructureMatcher.BracketMatcher());
+		//new code
+		this.putClientProperty("JScrollBar.isShowing", Boolean.TRUE);
 		//}}}
 
 		//{{{ Initialize the GUI
@@ -116,6 +121,7 @@ public abstract class TextArea extends JPanel
 		horizontal.setRequestFocusEnabled(false);
 
 		horizontal.setValues(0,0,0,0);
+
 		//}}}
 
 		//{{{ this ensures that the text area's look is slightly
@@ -148,8 +154,30 @@ public abstract class TextArea extends JPanel
 		// when setting the initial caret position for a buffer
 		// (eg, from the recent file list)
 		focusedComponent = this;
+
+
+
+
 	} //}}}
 
+
+	//toggle scollbars methods
+	public void toggleBars()
+	{
+		if(this.bars)
+		{
+			this.vertical.setVisible(false);
+			this.horizontal.setVisible(false);
+			this.bars = false;
+		}
+		else
+		{
+			this.vertical.setVisible(true);
+			this.horizontal.setVisible(true);
+			this.bars = true;
+		}
+		return;
+	}
 	//{{{ getFoldPainter() method
 	public FoldPainter getFoldPainter()
 	{
